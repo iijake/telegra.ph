@@ -2,7 +2,7 @@
 [![NPM Version](https://img.shields.io/npm/v/telegra.ph.svg?style=flat-square)](https://www.npmjs.com/package/telegra.ph)
 [![Build Status](https://img.shields.io/travis/telegraf/telegra.ph.svg?branch=master&style=flat-square)](https://travis-ci.org/telegraf/telegra.ph)
 
-Tiny API helper for Telegra.ph.
+- API helper for Telegra.ph.
 
 [Telegra.ph API docs](http://telegra.ph/api)
 
